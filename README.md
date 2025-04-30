@@ -68,13 +68,6 @@ python run_inference.py
 
 ---
 
-## 📌 Notes
-
-- `ST-Project-Classical-Model.ipynb` contains an SVM model (abandoned due to long runtime).
-- `model_logs.txt` tracks training metrics and progress.
-
----
-
 ## 👨‍💻 Author
 
 Developed by **Team 01**  
