@@ -28,7 +28,7 @@ This project implements cloud segmentation on satellite images using a U-Net mod
 - **Best Dice Achieved:** **96.25%**
 
 🎯 **Download Trained Model:**  
-[🔗 model_best_dice_96.25.pth](https://drive.google.com/file/d/1xgNJzqIRz8NddqkU4Sts-_wpCan2anWv/view?usp=sharing)
+[🔗 model_best_dice_96.63.pth](https://drive.google.com/file/d/1xgNJzqIRz8NddqkU4Sts-_wpCan2anWv/view?usp=sharing)
 
 ---
 
